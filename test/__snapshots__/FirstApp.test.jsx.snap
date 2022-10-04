@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en FirstApp debe de mostrar el titulo en un h1 1`] = `
+<div>
+  <h1>
+    Hola Soy Goku
+  </h1>
+  <p>
+    10
+  </p>
+  <p>
+    David
+  </p>
+</div>
+`;
+
+exports[`Pruebas en FirstApp debe de ser match con el snapshot 1`] = `
+<div>
+  <h1>
+    Hola Soy Goku
+  </h1>
+  <p>
+    10
+  </p>
+  <p>
+    David
+  </p>
+</div>
+`;
